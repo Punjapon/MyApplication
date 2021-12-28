@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="name">Punjapon onkotha</string>
-    <string name="titleprofile">Watch this!</string>
+    <string name="titleprofile">623410006-2</string>
+    <string name="teacher">อาจาร์ยที่ปรึกษา: ผศ.ดร.พรรณรัตน์ ก้วยเจริญพานิชก์ </string>
+    <string name="email">Email: Punjapon@kkumail.com </string>
+    <string name="contact">FB: Pun Pun IG: pun8e8  </string>
+    <string name="history">จบจากโรงเรียนหนองกุงศรีวิทยาคาร  </string>
+    <string name="address">หอพักมณียา บ.หนองเดิ่น ต.หนองกอมเกาะ อ.เมื่อง จ.หนองคาย  </string>
 </resources>
